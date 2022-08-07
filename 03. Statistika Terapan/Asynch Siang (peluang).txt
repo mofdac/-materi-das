@@ -1,0 +1,22 @@
+silahkan susun program python sesuai dengan minigame ini:
+
+https://yugioh.fandom.com/wiki/Four_Aces
+
+- ada 4 kartu as yang akan dimainkan
+cards = ['Red','Red','Black','Black']
+
+
+- dealer men shuffle kartu
+silahkan gunakan fungsi shuffle pada library random
+from random import shuffle
+
+- pemain memasukan 2 angka urutan kartu
+angka diantar 1-4
+tidak boleh sama
+
+- cek menang atau tidak.. 2 kartu yang dipilih sama
+sama Red atau sama Black
+
+- ulangi dari step shuffling, hitung jumlah kemenangan
+
+berapa peluang menang dalam game ini?
