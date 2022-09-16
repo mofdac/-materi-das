@@ -1,0 +1,2 @@
+,Survived,Pclass,Age_mean_multi,SibSp,Parch,Fare_dbscan,Sex_enc,S,C,Q,Mr,Mrs,Miss,Master,Other,young_adult,adult,elderly,child
+0,0,3,22.0,1,0,7.25,0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
