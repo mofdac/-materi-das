@@ -6,13 +6,11 @@ import plotly.express as px
 # EDA Pkgs
 import pandas as pd
 import numpy as np
-from datetime import datetime
 import seaborn as sns
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 # Utils
 import joblib
-# nlpmodel = joblib.load(open("model_custom.pkl","rb"))
 
 # Image
 from PIL import Image
@@ -22,6 +20,7 @@ menu = ["EDA","Classification"]
 choice = st.sidebar.selectbox("Select Menu", menu)
 if choice == "EDA":
     st.title("Exploratory Data Analysis")
+    st.sidebar.image('kode.jpg')
     data = st.file_uploader("Upload Dataset", type=["csv","txt"])
     if data is not None:
         df = pd.read_csv(data)
@@ -58,7 +57,6 @@ if choice == "EDA":
         dfp = df
         dfp[color_by] = dfp[color_by].astype(str)
         if st.button("Generate Plot"):
-            # st.success("Generating Custom Plot of {} for {}".format(plot_type,selected_y))
             if plot_type == "bar":
                 fig = px.bar(dfp,x=selected_x,y=selected_y,color = color_by)
                 st.plotly_chart(fig)
@@ -80,12 +78,8 @@ elif choice == "Classification":
     iris= Image.open('iris.png')
     st.image(iris)
 
-    model = open("model.pkl", "rb")
-    knn_clf = joblib.load(model)
-    #Loading images
-    setosa= Image.open('setosa.png')
-    versicolor= Image.open('versicolor.png')
-    virginica = Image.open('virginica.png')
+    modelfile = open("model.pkl", "rb")
+    model = joblib.load(modelfile)
 
     st.sidebar.title("Features")
     #Intializing
@@ -97,10 +91,10 @@ elif choice == "Classification":
     if st.button("Click Here to Classify"):
         dfvalues = pd.DataFrame(list(zip([sl],[sw],[pl],[pw])),columns =['sepal_length', 'sepal_width', 'petal_length', 'petal_width'])
         input_variables = np.array(dfvalues[['sepal_length', 'sepal_width', 'petal_length', 'petal_width']])
-        prediction = knn_clf.predict(input_variables)
+        prediction = model.predict(input_variables)
         if prediction == 1:
-            st.image(setosa)
+            st.image('setosa.png')
         elif prediction == 2:
-            st.image(versicolor)
+            st.image('versicolor.png')
         elif prediction == 3:
-            st.image(virginica)
+            st.image('virginica.png')
