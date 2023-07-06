@@ -157,7 +157,6 @@ Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 210071,Lightning Charging Cable,1,14.95,06/10/19 17:31,"988 Pine St, Portland, OR 97035"
 210072,AA Batteries (4-pack),2,3.84,06/19/19 16:07,"921 4th St, San Francisco, CA 94016"
 210073,Bose SoundSport Headphones,1,99.99,06/14/19 17:21,"400 Johnson St, Dallas, TX 75001"
-Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 210074,AA Batteries (4-pack),2,3.84,06/25/19 10:06,"794 Wilson St, Los Angeles, CA 90001"
 210075,USB-C Charging Cable,1,11.95,06/07/19 14:29,"216 Main St, Los Angeles, CA 90001"
 210076,AA Batteries (4-pack),1,3.84,06/16/19 22:58,"168 Washington St, New York City, NY 10001"
@@ -989,7 +988,6 @@ Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 210863,Wired Headphones,1,11.99,06/24/19 19:21,"294 Forest St, Portland, ME 04101"
 210864,Bose SoundSport Headphones,1,99.99,06/06/19 10:50,"169 Ridge St, San Francisco, CA 94016"
 210865,27in 4K Gaming Monitor,1,389.99,06/06/19 17:50,"298 Church St, Los Angeles, CA 90001"
-Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 210866,27in 4K Gaming Monitor,1,389.99,06/11/19 23:37,"989 Forest St, Atlanta, GA 30301"
 210867,AA Batteries (4-pack),1,3.84,06/02/19 06:37,"920 Dogwood St, San Francisco, CA 94016"
 210867,Lightning Charging Cable,1,14.95,06/02/19 06:37,"920 Dogwood St, San Francisco, CA 94016"
@@ -1678,12 +1676,10 @@ Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 211514,Lightning Charging Cable,1,14.95,06/24/19 09:03,"895 Ridge St, Los Angeles, CA 90001"
 211515,AA Batteries (4-pack),1,3.84,06/04/19 20:13,"477 Willow St, Atlanta, GA 30301"
 211516,34in Ultrawide Monitor,1,379.99,06/07/19 22:18,"100 5th St, San Francisco, CA 94016"
-Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 211517,Apple Airpods Headphones,1,150,06/16/19 13:09,"508 Lakeview St, Atlanta, GA 30301"
 211518,Apple Airpods Headphones,1,150,06/18/19 20:53,"493 11th St, Atlanta, GA 30301"
 211519,Wired Headphones,1,11.99,06/16/19 19:01,"533 Hickory St, Austin, TX 73301"
 211520,AAA Batteries (4-pack),2,2.99,06/11/19 17:38,"159 Pine St, Boston, MA 02215"
-Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 211521,Bose SoundSport Headphones,1,99.99,06/05/19 12:28,"380 Johnson St, San Francisco, CA 94016"
 211522,Lightning Charging Cable,1,14.95,06/14/19 18:42,"152 Park St, San Francisco, CA 94016"
 211523,USB-C Charging Cable,1,11.95,06/17/19 16:24,"457 1st St, San Francisco, CA 94016"
@@ -3125,7 +3121,6 @@ Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 212888,AA Batteries (4-pack),1,3.84,06/26/19 17:07,"905 Dogwood St, New York City, NY 10001"
 212889,ThinkPad Laptop,1,999.99,06/16/19 14:57,"561 2nd St, Los Angeles, CA 90001"
 212890,27in FHD Monitor,1,149.99,06/22/19 09:41,"263 Cedar St, Los Angeles, CA 90001"
-Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 212891,AA Batteries (4-pack),2,3.84,06/02/19 13:29,"968 Hickory St, Seattle, WA 98101"
 212892,AA Batteries (4-pack),1,3.84,06/27/19 07:08,"507 Maple St, San Francisco, CA 94016"
 212893,Lightning Charging Cable,1,14.95,06/11/19 15:42,"269 Hickory St, San Francisco, CA 94016"
@@ -3211,7 +3206,6 @@ Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 212969,Lightning Charging Cable,1,14.95,06/15/19 09:30,"480 14th St, Boston, MA 02215"
 212970,AA Batteries (4-pack),1,3.84,06/22/19 07:11,"318 Center St, Portland, OR 97035"
 212971,34in Ultrawide Monitor,1,379.99,06/12/19 10:14,"721 Hickory St, Austin, TX 73301"
-Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 212972,AA Batteries (4-pack),1,3.84,06/11/19 19:46,"170 Highland St, Dallas, TX 75001"
 212973,34in Ultrawide Monitor,1,379.99,06/29/19 04:59,"834 12th St, Dallas, TX 75001"
 212974,Flatscreen TV,1,300,06/03/19 17:39,"49 Center St, San Francisco, CA 94016"
@@ -3917,7 +3911,6 @@ Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 213640,Flatscreen TV,1,300,06/20/19 08:10,"808 North St, Atlanta, GA 30301"
 213641,Bose SoundSport Headphones,1,99.99,06/23/19 23:41,"527 Chestnut St, Atlanta, GA 30301"
 213642,Flatscreen TV,1,300,06/12/19 15:13,"771 4th St, Austin, TX 73301"
-Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 213643,Lightning Charging Cable,1,14.95,06/09/19 13:47,"595 Lincoln St, San Francisco, CA 94016"
 213644,20in Monitor,1,109.99,06/19/19 20:57,"804 River St, Portland, ME 04101"
 213645,Flatscreen TV,1,300,06/23/19 17:24,"391 South St, Dallas, TX 75001"
@@ -4196,7 +4189,6 @@ Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 213905,USB-C Charging Cable,1,11.95,06/24/19 08:42,"650 7th St, Atlanta, GA 30301"
 213906,AA Batteries (4-pack),1,3.84,06/28/19 11:52,"368 Church St, Boston, MA 02215"
 213907,Apple Airpods Headphones,1,150,06/28/19 09:26,"684 10th St, San Francisco, CA 94016"
-Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 213908,AA Batteries (4-pack),3,3.84,06/17/19 16:55,"77 6th St, San Francisco, CA 94016"
 213909,Apple Airpods Headphones,1,150,06/11/19 10:18,"144 Hickory St, Atlanta, GA 30301"
 213910,27in 4K Gaming Monitor,1,389.99,06/10/19 20:09,"723 Willow St, New York City, NY 10001"
@@ -4228,7 +4220,6 @@ Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 213936,AA Batteries (4-pack),1,3.84,06/14/19 12:55,"385 1st St, Atlanta, GA 30301"
 213937,Bose SoundSport Headphones,1,99.99,06/30/19 19:17,"630 Walnut St, Boston, MA 02215"
 213938,Macbook Pro Laptop,1,1700,06/14/19 09:00,"480 Hill St, Austin, TX 73301"
-Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 213939,Lightning Charging Cable,1,14.95,06/23/19 13:06,"460 Johnson St, San Francisco, CA 94016"
 213940,27in 4K Gaming Monitor,1,389.99,06/20/19 23:13,"148 Walnut St, New York City, NY 10001"
 213941,AAA Batteries (4-pack),1,2.99,06/06/19 21:05,"470 12th St, Atlanta, GA 30301"
@@ -4328,7 +4319,6 @@ Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 214029,Google Phone,1,600,06/23/19 11:13,"843 Willow St, Atlanta, GA 30301"
 214029,Bose SoundSport Headphones,1,99.99,06/23/19 11:13,"843 Willow St, Atlanta, GA 30301"
 214030,AAA Batteries (4-pack),4,2.99,06/02/19 15:57,"395 Pine St, San Francisco, CA 94016"
-Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 214031,Wired Headphones,1,11.99,06/10/19 08:50,"807 11th St, Austin, TX 73301"
 214032,iPhone,1,700,06/20/19 18:34,"92 South St, Atlanta, GA 30301"
 214033,Wired Headphones,1,11.99,06/21/19 06:01,"215 Wilson St, Seattle, WA 98101"
@@ -4858,7 +4848,6 @@ Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 214530,AA Batteries (4-pack),4,3.84,06/25/19 18:53,"168 11th St, Dallas, TX 75001"
 214531,Bose SoundSport Headphones,1,99.99,06/03/19 18:32,"931 13th St, Portland, ME 04101"
 214532,Lightning Charging Cable,1,14.95,06/20/19 17:47,"42 Lakeview St, Seattle, WA 98101"
-Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 214533,Lightning Charging Cable,1,14.95,06/10/19 12:50,"869 Johnson St, Los Angeles, CA 90001"
 214534,20in Monitor,1,109.99,06/06/19 23:04,"619 Center St, New York City, NY 10001"
 214535,Apple Airpods Headphones,1,150,06/10/19 03:22,"408 5th St, Atlanta, GA 30301"
@@ -4876,7 +4865,6 @@ Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 214545,AAA Batteries (4-pack),1,2.99,06/28/19 07:43,"654 Dogwood St, San Francisco, CA 94016"
 214546,20in Monitor,1,109.99,06/27/19 23:59,"638 Lakeview St, San Francisco, CA 94016"
 214547,ThinkPad Laptop,1,999.99,06/18/19 21:38,"489 Wilson St, San Francisco, CA 94016"
-Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 214548,Bose SoundSport Headphones,1,99.99,06/27/19 17:25,"242 5th St, Boston, MA 02215"
 214549,Google Phone,1,600,06/15/19 21:17,"479 4th St, Boston, MA 02215"
 214549,USB-C Charging Cable,2,11.95,06/15/19 21:17,"479 4th St, Boston, MA 02215"
@@ -5372,7 +5360,6 @@ Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 215014,AAA Batteries (4-pack),1,2.99,06/07/19 10:46,"465 Lake St, Portland, OR 97035"
 215015,USB-C Charging Cable,1,11.95,06/29/19 15:16,"646 4th St, New York City, NY 10001"
 215016,AA Batteries (4-pack),1,3.84,06/19/19 19:03,"745 Hill St, Atlanta, GA 30301"
-Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 215017,Flatscreen TV,1,300,06/16/19 16:25,"687 10th St, New York City, NY 10001"
 215018,Wired Headphones,1,11.99,06/18/19 12:33,"169 13th St, San Francisco, CA 94016"
 215019,Apple Airpods Headphones,1,150,06/26/19 13:51,"313 Hickory St, Atlanta, GA 30301"
@@ -6017,7 +6004,6 @@ Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 215636,Bose SoundSport Headphones,1,99.99,06/25/19 17:54,"228 4th St, Austin, TX 73301"
 215637,USB-C Charging Cable,1,11.95,06/22/19 23:37,"909 13th St, San Francisco, CA 94016"
 215638,USB-C Charging Cable,1,11.95,06/24/19 20:05,"379 9th St, Los Angeles, CA 90001"
-Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 215639,AA Batteries (4-pack),1,3.84,06/05/19 15:28,"186 Ridge St, San Francisco, CA 94016"
 215640,Google Phone,1,600,06/04/19 17:35,"887 River St, San Francisco, CA 94016"
 215640,USB-C Charging Cable,1,11.95,06/04/19 17:35,"887 River St, San Francisco, CA 94016"
@@ -7726,7 +7712,6 @@ Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 217282,AA Batteries (4-pack),1,3.84,06/02/19 20:14,"455 Dogwood St, San Francisco, CA 94016"
 217283,Apple Airpods Headphones,1,150,06/09/19 10:13,"566 Wilson St, Boston, MA 02215"
 217284,Wired Headphones,1,11.99,06/26/19 12:09,"223 Cedar St, Portland, OR 97035"
-Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 217285,27in 4K Gaming Monitor,1,389.99,06/06/19 20:22,"72 Washington St, San Francisco, CA 94016"
 217286,Bose SoundSport Headphones,1,99.99,06/29/19 08:43,"371 Elm St, San Francisco, CA 94016"
 217287,Flatscreen TV,1,300,06/03/19 19:58,"10 Walnut St, Los Angeles, CA 90001"
@@ -8250,7 +8235,6 @@ Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 217791,AAA Batteries (4-pack),3,2.99,06/28/19 19:37,"542 13th St, San Francisco, CA 94016"
 217792,AAA Batteries (4-pack),1,2.99,06/28/19 15:54,"324 Cedar St, Seattle, WA 98101"
 217793,AA Batteries (4-pack),1,3.84,06/01/19 12:58,"645 13th St, Austin, TX 73301"
-Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 217794,AAA Batteries (4-pack),2,2.99,06/03/19 15:43,"539 Center St, Los Angeles, CA 90001"
 217795,Apple Airpods Headphones,1,150,06/06/19 14:15,"402 12th St, Dallas, TX 75001"
 217795,Wired Headphones,1,11.99,06/06/19 14:15,"402 12th St, Dallas, TX 75001"
@@ -8905,7 +8889,6 @@ Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 218415,Apple Airpods Headphones,1,150,06/06/19 07:12,"71 Maple St, Los Angeles, CA 90001"
 218416,AAA Batteries (4-pack),3,2.99,06/25/19 21:55,"109 Jackson St, San Francisco, CA 94016"
 218417,AA Batteries (4-pack),1,3.84,06/24/19 21:46,"776 6th St, San Francisco, CA 94016"
-Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 218418,AA Batteries (4-pack),1,3.84,06/24/19 14:47,"575 Main St, Portland, ME 04101"
 218419,Bose SoundSport Headphones,1,99.99,06/26/19 22:20,"217 Park St, San Francisco, CA 94016"
 218420,Lightning Charging Cable,1,14.95,06/22/19 16:25,"543 North St, Boston, MA 02215"
@@ -8917,7 +8900,6 @@ Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 218425,27in FHD Monitor,1,149.99,06/20/19 07:51,"9 Forest St, Seattle, WA 98101"
 218426,Bose SoundSport Headphones,1,99.99,06/16/19 09:47,"281 Adams St, New York City, NY 10001"
 218427,Lightning Charging Cable,1,14.95,06/02/19 05:36,"453 River St, Los Angeles, CA 90001"
-Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 218428,AA Batteries (4-pack),1,3.84,06/07/19 16:50,"156 Hill St, Dallas, TX 75001"
 218429,LG Washing Machine,1,600.0,06/17/19 10:11,"759 10th St, San Francisco, CA 94016"
 218430,USB-C Charging Cable,1,11.95,06/03/19 11:04,"975 North St, San Francisco, CA 94016"
@@ -10442,7 +10424,6 @@ Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 219876,Apple Airpods Headphones,1,150,06/12/19 00:45,"693 Spruce St, Dallas, TX 75001"
 219877,Lightning Charging Cable,1,14.95,06/19/19 12:38,"637 Park St, Dallas, TX 75001"
 219878,ThinkPad Laptop,1,999.99,06/10/19 19:05,"692 Lake St, Boston, MA 02215"
-Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 219879,Lightning Charging Cable,1,14.95,06/10/19 13:26,"12 13th St, Boston, MA 02215"
 219880,AA Batteries (4-pack),1,3.84,06/21/19 17:41,"928 12th St, San Francisco, CA 94016"
 219881,Lightning Charging Cable,1,14.95,06/27/19 21:32,"45 Meadow St, San Francisco, CA 94016"
@@ -10783,7 +10764,6 @@ Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 220205,Apple Airpods Headphones,1,150,06/27/19 14:35,"783 Center St, Los Angeles, CA 90001"
 220206,Bose SoundSport Headphones,1,99.99,06/19/19 21:25,"315 Center St, Seattle, WA 98101"
 220207,Bose SoundSport Headphones,1,99.99,06/13/19 07:24,"152 Main St, San Francisco, CA 94016"
-Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 220208,iPhone,1,700,06/19/19 10:14,"569 Hickory St, Los Angeles, CA 90001"
 220208,Wired Headphones,1,11.99,06/19/19 10:14,"569 Hickory St, Los Angeles, CA 90001"
 220209,Apple Airpods Headphones,1,150,06/27/19 21:15,"769 Park St, New York City, NY 10001"
@@ -10812,7 +10792,6 @@ Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 220231,iPhone,1,700,06/11/19 14:09,"66 Cherry St, Austin, TX 73301"
 220232,Flatscreen TV,1,300,06/11/19 19:07,"294 Church St, Dallas, TX 75001"
 220233,Lightning Charging Cable,1,14.95,06/18/19 14:15,"318 South St, San Francisco, CA 94016"
-Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 220234,Wired Headphones,1,11.99,06/03/19 11:23,"950 Hill St, Atlanta, GA 30301"
 220235,27in FHD Monitor,1,149.99,06/06/19 18:35,"778 Elm St, New York City, NY 10001"
 220236,Bose SoundSport Headphones,1,99.99,06/21/19 11:15,"985 Maple St, San Francisco, CA 94016"
@@ -11046,7 +11025,6 @@ Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 220453,Apple Airpods Headphones,1,150,06/20/19 19:23,"425 Hickory St, Austin, TX 73301"
 220454,AAA Batteries (4-pack),1,2.99,06/05/19 09:55,"864 Lincoln St, Dallas, TX 75001"
 220455,Lightning Charging Cable,1,14.95,06/09/19 11:08,"259 River St, Seattle, WA 98101"
-Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 220456,AAA Batteries (4-pack),1,2.99,06/12/19 20:46,"219 Pine St, San Francisco, CA 94016"
 220457,Google Phone,1,600,06/08/19 21:05,"66 Sunset St, Los Angeles, CA 90001"
 220458,Bose SoundSport Headphones,1,99.99,06/18/19 00:38,"603 River St, Atlanta, GA 30301"
@@ -13303,7 +13281,6 @@ Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 222605,27in FHD Monitor,1,149.99,06/23/19 11:02,"73 11th St, Boston, MA 02215"
 222606,USB-C Charging Cable,1,11.95,06/12/19 04:44,"558 8th St, Dallas, TX 75001"
 222607,34in Ultrawide Monitor,1,379.99,06/10/19 22:02,"871 Spruce St, San Francisco, CA 94016"
-Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
 222608,USB-C Charging Cable,1,11.95,06/02/19 17:05,"339 7th St, San Francisco, CA 94016"
 222609,Lightning Charging Cable,1,14.95,06/25/19 21:32,"669 Washington St, San Francisco, CA 94016"
 222610,Lightning Charging Cable,2,14.95,06/08/19 21:34,"501 Dogwood St, New York City, NY 10001"
